@@ -12,6 +12,4 @@ samplepercent= .20
 
 dkteams =2
 
-playerusage, dkupload= DFS_NBA_Team_Builder.DK_TeamBuilder.DK_TeamBuildermod(dfr,dkteams,samplepercent)
-
-
+dkupload= DFS_NBA_Team_Builder.DK_TeamBuilder.DK_TeamBuildermod(dfr,dkteams,samplepercent)
