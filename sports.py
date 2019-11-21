@@ -2,4 +2,5 @@
 
 import sports
 
-match = sports.get_sport(sports.BASEBALL)
+steelers = sports.get_team_info(sports.FOOTBALL, 'steelers')
+print(steelers.super_bowls)
